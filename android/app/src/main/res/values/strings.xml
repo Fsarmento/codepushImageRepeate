@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">BMSsYLGyio2Lqprj7mzBhkFBPWbJrJk9mWMqQ</string>
+    <string name="app_name">codepushImageRepeate</string>
+</resources>
